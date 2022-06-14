@@ -13,6 +13,9 @@ Informar autoria do repositorio= git config -- global user.email "digite o email
 
 Para adicionar o repositorio do github para a maquina= git clone LinkdoRepositorio
 
-Para adicionar repositorio da maquina para o github= git add . 
+Para salvar o repositorio na maquina=  git add . 
+                                       git commit -m "descrição da modificação"
+                                       
+Para enviar o arquivo para o github= git push origin main
 
 Para verificar se todos os arquivos fora comitados= git status 
