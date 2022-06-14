@@ -11,3 +11,8 @@ Tab= completa o texto
 Informar autoria do repositorio= git config -- global user.email "digite o email"
                                  git config -- global user.name "digite seu nome de usuario do github"
 
+Para adicionar o repositorio do github para a maquina= git clone LinkdoRepositorio
+
+Para adicionar repositorio da maquina para o github= git add . 
+
+Para verificar se todos os arquivos fora comitados= git status 
